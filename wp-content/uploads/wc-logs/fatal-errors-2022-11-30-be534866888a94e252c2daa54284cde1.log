@@ -1,0 +1,4 @@
+2022-11-30T02:49:45+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\wamp64\www\wordpress\wp-includes\Requests\Transport\cURL.php on line 165
+
+2022-11-30T15:46:49+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\wamp64\www\wordpress\wp-includes\Requests\Transport\cURL.php on line 483
+
